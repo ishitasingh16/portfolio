@@ -1,0 +1,23 @@
+{
+  "name": "3fb12058-1b26-4cf3-9ee9-b01410e80541",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Auto-generated project - added missing package.json to allow npm install",
+  "scripts": {
+    "build": "echo \"Static site - no build step required\"",
+    "start": "next start",
+    "dev": "next dev",
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
